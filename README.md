@@ -21,6 +21,7 @@ I specialize in bridging the gap between <b>public-facing operations and advance
 - Student Support, Front Desk Operations, Admissions Assistance  
 - Team Leadership, Task Coordination & Workflow Optimization  
 - Office & Team Management, Staff Mentorship  
+- Efficient workflow, record keeping, and documentation  
 
 ### 💻 Web Development & Full Stack
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, Tailwind, React, Next.js, Redux, TypeScript  
@@ -62,20 +63,19 @@ I specialize in bridging the gap between <b>public-facing operations and advance
 ## 🛠 Skills & Tools
 
 <p align="center">
-<!-- Animated gradient badges using shields.io -->
-<a href="#"><img src="https://img.shields.io/badge/HTML5-90E0EF?style=for-the-badge&logo=html5&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CSS3-FFABAB?style=for-the-badge&logo=css3&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-FCD34D?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+<a href="#"><img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/CSS3-2980B9?style=for-the-badge&logo=css3&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-F1C40F?style=for-the-badge&logo=javascript&logoColor=black" /></a>
 <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/FastAPI-00B0F0?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
 </p>
 
 <p align="center">
+<a href="#"><img src="https://img.shields.io/badge/FastAPI-00B0F0?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
